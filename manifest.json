@@ -1,0 +1,10 @@
+{
+  "name": "Locked In",
+  "description": "Chrome extension to help you focus",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "lockedin.html",
+    "default_icon": "icon.png"
+  }
+}
